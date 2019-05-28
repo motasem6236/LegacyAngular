@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/motasem6236/LegacyAngular/issues"
   },
-  "homepage": "https://github.com/motasem6236/LegacyAngular#readme"
+  "homepage": "https://github.com/motasem6236/LegacyAngular#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
